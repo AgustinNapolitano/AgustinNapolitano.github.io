@@ -65,6 +65,12 @@ body{
     margin-left: 15px;
 }
 
+.divContacto{
+    align-self: center;
+    color: aliceblue;
+    margin-left: 80px;
+}
+
 .divImg{
     align-self: center;
 }
