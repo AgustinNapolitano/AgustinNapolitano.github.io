@@ -62,6 +62,7 @@ body{
 .divPresentacion{
     align-self: center;
     color: aliceblue;
+    margin-left: 15px;
 }
 
 .divImg{
