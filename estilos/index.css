@@ -49,13 +49,6 @@ body{
     text-decoration: none;
 }
 
-.divPadre{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 200px;
-}
-
 .contenedorPresentacionEImagen{
     display: flex;
     justify-content: center;
