@@ -1,7 +1,7 @@
 body{
     background-color: #0C102F;
-    height: 100%;
-    width: 100%;
+    height: auto;
+    width: auto;
 }
 
 .header{
@@ -50,17 +50,19 @@ body{
 }
 
 .divPadre{
-    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
 }
 
 .contenedorPresentacionEImagen{
-    position:absolute;
-    left: 500px;
-    top: 100px;
-    right: 500px;
-    margin: auto;
     display: flex;
     justify-content: center;
+    align-items: center;
+    margin-left: 230px;
+    margin-right: 350px;
+
     
 }
 
