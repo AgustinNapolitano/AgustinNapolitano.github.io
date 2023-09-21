@@ -86,9 +86,9 @@ h1 {
 }
 
 .divContacto{
-    align-self: center;
+    max-width: 50%;
     color: aliceblue;
-    margin-left: 80px;
+    padding: 20px;
 }
 
 .divImg{
