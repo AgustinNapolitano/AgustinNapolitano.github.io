@@ -162,3 +162,26 @@ footer {
         position: relative;
     }
 }
+
+.animar {
+    animation: moverImagen 2s ease-in-out; /* Nombre de la animación, duración y función de temporización */
+  }
+
+  @keyframes moverImagen {
+    0% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(100px); /* Mover la imagen 100px a la derecha en el 50% de la animación */
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+
+
+
+
+
+
+
